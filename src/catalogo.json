@@ -1,5 +1,123 @@
 [
   {
+    "familia": "Murales de arte",
+    "descripcion": "Obras generativas pintadas con código: acuarela, vitral, mosaico, óleo, tinta y más.",
+    "fondos": [
+      {
+        "n": "a1",
+        "id": "arte-flujo",
+        "codigo": "A1",
+        "nombre": "Campo de flujo",
+        "descripcion": "Miles de cintas de color que siguen corrientes invisibles sobre crema."
+      },
+      {
+        "n": "a2",
+        "id": "arte-flujo--noche",
+        "codigo": "A2",
+        "nombre": "Campo de flujo nocturno",
+        "descripcion": "Las mismas corrientes en celestes y ocres sobre azul marino, con el logo en blanco."
+      },
+      {
+        "n": "a3",
+        "id": "arte-acuarela",
+        "codigo": "A3",
+        "nombre": "Acuarela",
+        "descripcion": "Manchas de acuarela superpuestas en azules, terracota y ocre sobre papel."
+      },
+      {
+        "n": "a4",
+        "id": "arte-marmol",
+        "codigo": "A4",
+        "nombre": "Papel marmolado azul",
+        "descripcion": "Tinta marmolada en azules con vetas doradas; logo en placa blanca."
+      },
+      {
+        "n": "a5",
+        "id": "arte-marmol--calido",
+        "codigo": "A5",
+        "nombre": "Papel marmolado cálido",
+        "descripcion": "Marmolado en durazno, terracota y crema con vetas azul marino."
+      },
+      {
+        "n": "a6",
+        "id": "arte-vitral",
+        "codigo": "A6",
+        "nombre": "Vitral rosetón",
+        "descripcion": "Vitral emplomado en anillos de vidrio joya que irradian desde un foco de luz dorada, con filetes de oro y cabujones."
+      },
+      {
+        "n": "a7",
+        "id": "arte-mosaico",
+        "codigo": "A7",
+        "nombre": "Mosaico trencadís",
+        "descripcion": "Trencadís de loza azul con tres brazos en espiral, filetes ocre y terracota, platos incrustados y logo en medallón."
+      },
+      {
+        "n": "a8",
+        "id": "arte-remolinos",
+        "codigo": "A8",
+        "nombre": "Remolinos al óleo",
+        "descripcion": "Óleo empastado: cinco remolinos en azules profundos con núcleos ocre y crema, de pinceladas cortas en relieve."
+      },
+      {
+        "n": "a9",
+        "id": "arte-enso",
+        "codigo": "A9",
+        "nombre": "Enso de tinta",
+        "descripcion": "Enso de pincel seco en tinta azul marino sobre papel de arroz, con tres barridos, salpicaduras y sello terracota."
+      },
+      {
+        "n": "a10",
+        "id": "arte-olas",
+        "codigo": "A10",
+        "nombre": "Olas seigaiha",
+        "descripcion": "Escamas de ola japonesas en degradé de azules, con corrientes ocre y terracota, líneas crema y polvo de oro."
+      },
+      {
+        "n": "a11",
+        "id": "arte-deco",
+        "codigo": "A11",
+        "nombre": "Abanicos déco en oro",
+        "descripcion": "Escamas de abanicos art déco con rayos, arcos y soles dorados sobre tres tonos de azul marino."
+      },
+      {
+        "n": "a12",
+        "id": "arte-kintsugi",
+        "codigo": "A12",
+        "nombre": "Kintsugi azul marino",
+        "descripcion": "Muro de cerámica azul marino con grietas ramificadas reparadas en oro que se detienen antes del logo."
+      },
+      {
+        "n": "a13",
+        "id": "arte-topografico",
+        "codigo": "A13",
+        "nombre": "Carta topográfica",
+        "descripcion": "Carta de curvas de nivel con tinte hipsométrico: bahía azul, sierras terracota, ríos y rosa de los vientos."
+      },
+      {
+        "n": "a14",
+        "id": "arte-jungla",
+        "codigo": "A14",
+        "nombre": "Jungla botánica",
+        "descripcion": "Follaje tropical en capas con verdes profundos, hojas azul de marca y hojas en línea dorada tras un medallón crema."
+      },
+      {
+        "n": "a15",
+        "id": "arte-aurora",
+        "codigo": "A15",
+        "nombre": "Aurora",
+        "descripcion": "Cortinas de aurora turquesa y violeta sobre un cielo azul noche, con luces difusas y un toque terracota."
+      },
+      {
+        "n": "a16",
+        "id": "arte-composicion",
+        "codigo": "A16",
+        "nombre": "Composición modernista",
+        "descripcion": "Abstracción modernista sobre crema: dianas concéntricas, triángulos traslapados, damero girado, arcos y trazos de tinta."
+      }
+    ]
+  },
+  {
     "familia": "Recepción",
     "descripcion": "Muro con el letrero, credenza y panel de listones con repisas.",
     "fondos": [

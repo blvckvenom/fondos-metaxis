@@ -114,6 +114,139 @@
         "codigo": "A16",
         "nombre": "Composición modernista",
         "descripcion": "Abstracción modernista sobre crema: dianas concéntricas, triángulos traslapados, damero girado, arcos y trazos de tinta."
+      },
+      {
+        "n": "a17",
+        "id": "arte-constelaciones",
+        "codigo": "A17",
+        "nombre": "Constelaciones",
+        "descripcion": "Cielo nocturno azul profundo con banda de polvo estelar, constelaciones doradas de cuatro puntas y esfera armilar."
+      },
+      {
+        "n": "a18",
+        "id": "arte-puntillismo",
+        "codigo": "A18",
+        "nombre": "Puntillismo: sol sobre el lago",
+        "descripcion": "Paisaje puntillista de colinas en capas, lago y cordillera bajo un sol de anillos, hecho de toques de color puro."
+      },
+      {
+        "n": "a19",
+        "id": "arte-cubista",
+        "codigo": "A19",
+        "nombre": "Facetas cubistas",
+        "descripcion": "Planos angulares fragmentados en azules, ocres, terracota y crema que insinúan guitarras, botellas y copas."
+      },
+      {
+        "n": "a20",
+        "id": "arte-zellige",
+        "codigo": "A20",
+        "nombre": "Zellige andalusí",
+        "descripcion": "Zellige de estrellas de ocho puntas y cruces en azules, crema y dorado, con roseta de 24 y zócalo de rombos."
+      },
+      {
+        "n": "a21",
+        "id": "arte-origami",
+        "codigo": "A21",
+        "nombre": "Origami de papel plegado",
+        "descripcion": "Cinco hojas de papel facetado, del azul marino al celeste y la crema, con dobladillos y solapas ocres a los lados."
+      },
+      {
+        "n": "a22",
+        "id": "arte-lineas",
+        "codigo": "A22",
+        "nombre": "Línea continua",
+        "descripcion": "Manchas de gouache suave sobre papel crema y tinta de una sola línea: perfil, mano abierta con rama y hojas."
+      },
+      {
+        "n": "a23",
+        "id": "arte-geoda",
+        "codigo": "A23",
+        "nombre": "Geoda de ágata y oro",
+        "descripcion": "Corte de ágata azul con bandas irregulares, filetes de oro y un núcleo de cuarzo que destella a la derecha."
+      },
+      {
+        "n": "a24",
+        "id": "arte-montanas",
+        "codigo": "A24",
+        "nombre": "Cordilleras al atardecer",
+        "descripcion": "Ocho cordilleras en capas tipo grabado, del macizo nevado y neblinoso a los pinos navy, bajo un cielo cálido."
+      },
+      {
+        "n": "a25",
+        "id": "arte-coral",
+        "codigo": "A25",
+        "nombre": "Arrecife de coral",
+        "descripcion": "Corales ramificados en terracota, ocre, celeste y blanco sobre azul profundo, con burbujas y rayos de luz."
+      },
+      {
+        "n": "a26",
+        "id": "arte-tejido",
+        "codigo": "A26",
+        "nombre": "Tapiz tejido",
+        "descripcion": "Kilim de lana con rombos, zigzag y dientes escalonados en azules, crema, terracota y ocre, con flecos anudados."
+      },
+      {
+        "n": "a27",
+        "id": "arte-pop",
+        "codigo": "A27",
+        "nombre": "Estallido pop",
+        "descripcion": "Rayos azules, semitonos de puntos grandes, estallidos y nubes de cómic con contorno negro en ocre y terracota."
+      },
+      {
+        "n": "a28",
+        "id": "arte-memphis",
+        "codigo": "A28",
+        "nombre": "Memphis pastel",
+        "descripcion": "Zigzags, garabatos, serpentinas, cuadrículas y medias lunas con sombra plana flotan sobre campos pastel rosa y hielo."
+      },
+      {
+        "n": "a29",
+        "id": "arte-neon",
+        "codigo": "A29",
+        "nombre": "Neón sobre ladrillo",
+        "descripcion": "Tubos de neón celeste, blanco cálido y uno coral trazan ondas, círculos y un espiral sobre ladrillo azul noche."
+      },
+      {
+        "n": "a30",
+        "id": "arte-espirografo",
+        "codigo": "A30",
+        "nombre": "Guilloché de espirógrafo",
+        "descripcion": "Rosetas de espirógrafo en línea fina de oro, celeste y blanco sobre azul marino, con una gran roseta a la derecha."
+      },
+      {
+        "n": "a31",
+        "id": "arte-papel",
+        "codigo": "A31",
+        "nombre": "Cañón de papel",
+        "descripcion": "Once hojas de papel recortado bajan en olas del azul marino al crema, con una veta terracota, hasta la luna del logo."
+      },
+      {
+        "n": "a34",
+        "id": "arte-cordillera",
+        "codigo": "A34",
+        "nombre": "Cordillera al alba",
+        "descripcion": "Cordillera nevada al alba: cumbres rosadas, bosques de coníferas en las laderas, mar de bruma y abetos a contraluz."
+      },
+      {
+        "n": "a35",
+        "id": "arte-cordillera--arrebol",
+        "codigo": "A35",
+        "nombre": "Cordillera en arrebol",
+        "descripcion": "La cordillera al atardecer: arrebol rosado en la nieve, bosques encendidos, cielo violeta a naranja y bruma malva."
+      },
+      {
+        "n": "a38",
+        "id": "arte-via-lactea",
+        "codigo": "A38",
+        "nombre": "Vía Láctea en el desierto",
+        "descripcion": "Astrofotografía: Vía Láctea de núcleo cálido, polvo oscuro y nebulosas rosadas sobre cerros del desierto con cardones."
+      },
+      {
+        "n": "a39",
+        "id": "arte-via-lactea--resplandor",
+        "codigo": "A39",
+        "nombre": "Vía Láctea con luminiscencia",
+        "descripcion": "La galaxia más erguida, con luminiscencia verde en el horizonte, velo rojizo y una estrella fugaz sobre los cardones."
       }
     ]
   },

@@ -221,6 +221,20 @@
         "descripcion": "Once hojas de papel recortado bajan en olas del azul marino al crema, con una veta terracota, hasta la luna del logo."
       },
       {
+        "n": "a32",
+        "id": "arte-oceano",
+        "codigo": "A32",
+        "nombre": "Marina al atardecer",
+        "descripcion": "Mar abierto con oleaje y senda de destellos bajo el sol, bruma en el horizonte y nubes encendidas por debajo."
+      },
+      {
+        "n": "a33",
+        "id": "arte-oceano--luna",
+        "codigo": "A33",
+        "nombre": "Marina con luna llena",
+        "descripcion": "Noche de luna llena sobre mar plateado: senda de destellos fríos, nubes con canto de plata y estrellas tenues."
+      },
+      {
         "n": "a34",
         "id": "arte-cordillera",
         "codigo": "A34",
@@ -235,6 +249,20 @@
         "descripcion": "La cordillera al atardecer: arrebol rosado en la nieve, bosques encendidos, cielo violeta a naranja y bruma malva."
       },
       {
+        "n": "a36",
+        "id": "arte-nubes",
+        "codigo": "A36",
+        "nombre": "Mar de nubes al atardecer",
+        "descripcion": "Mar de nubes a contraluz con sol bajo, torres de cúmulo, sombras lavanda y cirros sobre un cielo azul profundo."
+      },
+      {
+        "n": "a37",
+        "id": "arte-nubes--tormenta",
+        "codigo": "A37",
+        "nombre": "Mar de nubes en tormenta",
+        "descripcion": "Techo de tormenta azul acero con un claro del que bajan haces de luz; torreones de cúmulo y mar con sombras largas."
+      },
+      {
         "n": "a38",
         "id": "arte-via-lactea",
         "codigo": "A38",
@@ -247,6 +275,62 @@
         "codigo": "A39",
         "nombre": "Vía Láctea con luminiscencia",
         "descripcion": "La galaxia más erguida, con luminiscencia verde en el horizonte, velo rojizo y una estrella fugaz sobre los cardones."
+      },
+      {
+        "n": "a40",
+        "id": "arte-bosque",
+        "codigo": "A40",
+        "nombre": "Bosque en niebla",
+        "descripcion": "Bosque a contraluz en la bruma: troncos en nueve planos, rayos de sol que cruzan la niebla y helechos al frente."
+      },
+      {
+        "n": "a41",
+        "id": "arte-bosque--otono",
+        "codigo": "A41",
+        "nombre": "Bosque en niebla, otoño dorado",
+        "descripcion": "El mismo bosque en otoño: bruma ámbar, copas y helechos dorados, haces de sol cálidos y hojas que caen."
+      },
+      {
+        "n": "a42",
+        "id": "arte-dunas",
+        "codigo": "A42",
+        "nombre": "Dunas al atardecer",
+        "descripcion": "Dunas doradas con sol rasante: crestas nítidas, caras en sombra y rizaduras que se bifurcan bajo un cielo azul limpio."
+      },
+      {
+        "n": "a43",
+        "id": "arte-dunas--hora-azul",
+        "codigo": "A43",
+        "nombre": "Dunas en la hora azul",
+        "descripcion": "Las mismas dunas en la hora azul: arena malva, resplandor rosado, luna creciente, lucero y primeras estrellas."
+      },
+      {
+        "n": "a44",
+        "id": "arte-lluvia",
+        "codigo": "A44",
+        "nombre": "Lluvia en la ventana",
+        "descripcion": "Vidrio mojado de noche: ciudad en discos bokeh ámbar, celeste y magenta, gotas que invierten la escena y regueros."
+      },
+      {
+        "n": "a45",
+        "id": "arte-lluvia--amanecer",
+        "codigo": "A45",
+        "nombre": "Lluvia al amanecer",
+        "descripcion": "La misma ventana en un amanecer frío: cielo acero con rubor en el horizonte, bokeh pálido y gotas plateadas."
+      },
+      {
+        "n": "a46",
+        "id": "arte-piedra",
+        "codigo": "A46",
+        "nombre": "Mármol negro y oro",
+        "descripcion": "Muro de mármol negro pulido en tres losas, con ríos de vetas doradas, fracturas blancas y vetas hondas."
+      },
+      {
+        "n": "a47",
+        "id": "arte-piedra--blanco",
+        "codigo": "A47",
+        "nombre": "Mármol blanco veta azul",
+        "descripcion": "Mármol blanco pulido con vetas gris azuladas en diagonal, sombras hondas difusas y vetillas finas."
       }
     ]
   },

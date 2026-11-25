@@ -48,3 +48,10 @@ export function sqlSemilla(catalogo) {
   const filas = listaPlana(catalogo).map((f) => `  (${q(f.id)}, ${q(f.codigo)}, ${q(f.nombre)}, ${q(f.familia)}, ${f.orden})`);
   return `insert into public.fondos (id, codigo, nombre, familia, orden) values\n${filas.join(',\n')}\non conflict (id) do update set codigo = excluded.codigo, nombre = excluded.nombre, familia = excluded.familia, orden = excluded.orden;\n`;
 }
+
+/**
+ * URL pública del sitio con barra final, para las etiquetas que exigen URL absoluta (vista previa de enlaces).
+ * @param {Record<string, string|undefined>} env
+ * @returns {string} cadena vacía si no se conoce la URL
+ */
+export const urlBase = (env) => (env.SITIO_URL ? env.SITIO_URL.replace(/\/?$/, '/') : '');

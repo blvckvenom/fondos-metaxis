@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { construirGaleria, configJs, sqlSemilla } from '../scripts/generar.js';
+import { construirGaleria, configJs, sqlSemilla, urlBase } from '../scripts/generar.js';
 
 const catalogo = [{ familia: 'Recepción', descripcion: 'Muro <claro>', fondos: [
   { n: '1', id: 'recepcion', codigo: '1', nombre: 'Recepción', descripcion: 'Listones & repisas' },
@@ -36,4 +36,13 @@ test('sqlSemilla hace upsert sin tocar los contadores y escapa comillas', () => 
   assert.match(sql, /\('1b-recepcion-nogal', '1B', 'Nogal d''oro', 'Recepción', 2\)/);
   assert.match(sql, /on conflict \(id\) do update set codigo = excluded\.codigo, nombre = excluded\.nombre, familia = excluded\.familia, orden = excluded\.orden;/);
   assert.doesNotMatch(sql, /me_gusta|descargas/);
+});
+
+test('urlBase termina en barra para armar URLs absolutas', () => {
+  assert.equal(urlBase({ SITIO_URL: 'https://ejemplo.github.io/fondos' }), 'https://ejemplo.github.io/fondos/');
+  assert.equal(urlBase({ SITIO_URL: 'https://ejemplo.github.io/fondos/' }), 'https://ejemplo.github.io/fondos/');
+});
+
+test('urlBase queda vacía sin SITIO_URL, para que las rutas sigan siendo relativas', () => {
+  assert.equal(urlBase({}), '');
 });

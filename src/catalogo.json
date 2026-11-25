@@ -1,0 +1,357 @@
+[
+  {
+    "familia": "Recepción",
+    "descripcion": "Muro con el letrero, credenza y panel de listones con repisas.",
+    "fondos": [
+      {
+        "n": "1",
+        "id": "recepcion",
+        "codigo": "1",
+        "nombre": "Recepción",
+        "descripcion": "Listones de roble, repisas negras y credenza blanca. La más parecida a una oficina."
+      },
+      {
+        "n": "1b",
+        "id": "recepcion-nogal",
+        "codigo": "1B",
+        "nombre": "Recepción nogal",
+        "descripcion": "Listones de nogal oscuro, repisas doradas y credenza azul marino."
+      },
+      {
+        "n": "1c",
+        "id": "recepcion-salvia",
+        "codigo": "1C",
+        "nombre": "Recepción salvia",
+        "descripcion": "Listones pintados verde salvia con repisas blancas."
+      },
+      {
+        "n": "1d",
+        "id": "recepcion-mural",
+        "codigo": "1D",
+        "nombre": "Recepción con arcos",
+        "descripcion": "La recepción original con arcos de colores pintados bajo el logo."
+      },
+      {
+        "n": "1e",
+        "id": "recepcion-noche",
+        "codigo": "1E",
+        "nombre": "Recepción de noche",
+        "descripcion": "Muro azul marino con el logo completo en blanco y listones de roble."
+      },
+      {
+        "n": "1f",
+        "id": "recepcion-bicolor",
+        "codigo": "1F",
+        "nombre": "Recepción bicolor",
+        "descripcion": "Muro crema arriba y azul marino abajo, separados por una línea ocre."
+      },
+      {
+        "n": "1g",
+        "id": "recepcion-ondas",
+        "codigo": "1G",
+        "nombre": "Recepción con ondas",
+        "descripcion": "Ondas celeste, azul y terracota pintadas bajo el logo."
+      },
+      {
+        "n": "1h",
+        "id": "recepcion-celeste",
+        "codigo": "1H",
+        "nombre": "Recepción celeste",
+        "descripcion": "Listones pintados azul de la marca con repisas blancas."
+      },
+      {
+        "n": "1i",
+        "id": "recepcion-grafito",
+        "codigo": "1I",
+        "nombre": "Recepción grafito",
+        "descripcion": "Listones gris grafito con repisas doradas."
+      }
+    ]
+  },
+  {
+    "familia": "Muro de un color",
+    "descripcion": "Muro liso con estantería iluminada.",
+    "fondos": [
+      {
+        "n": "2",
+        "id": "azul",
+        "codigo": "2",
+        "nombre": "Muro azul",
+        "descripcion": "Logo retroiluminado sobre azul marino y estantería de nogal."
+      },
+      {
+        "n": "2d",
+        "id": "azul-placa",
+        "codigo": "2D",
+        "nombre": "Muro azul con placa",
+        "descripcion": "El mismo muro con el logo en una placa blanca."
+      },
+      {
+        "n": "2e",
+        "id": "celeste",
+        "codigo": "2E",
+        "nombre": "Muro celeste",
+        "descripcion": "Azul medio con el logo completo en blanco y estantería de roble."
+      },
+      {
+        "n": "2f",
+        "id": "muro-verde",
+        "codigo": "2F",
+        "nombre": "Muro verde",
+        "descripcion": "Verde profundo con el logo completo en blanco."
+      },
+      {
+        "n": "2g",
+        "id": "muro-terracota",
+        "codigo": "2G",
+        "nombre": "Muro terracota",
+        "descripcion": "Terracota con el logo completo en blanco."
+      },
+      {
+        "n": "2h",
+        "id": "muro-crema",
+        "codigo": "2H",
+        "nombre": "Muro crema",
+        "descripcion": "Muro claro con el logo en sus colores y estantería de nogal."
+      },
+      {
+        "n": "2i",
+        "id": "muro-grafito",
+        "codigo": "2I",
+        "nombre": "Muro grafito",
+        "descripcion": "Gris oscuro con el isotipo en color y el texto en blanco."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de arcos",
+    "descripcion": "Muro pintado con arcos; el logo va sobre un disco claro.",
+    "fondos": [
+      {
+        "n": "2b",
+        "id": "mural-arcos",
+        "codigo": "2B",
+        "nombre": "Mural de arcos",
+        "descripcion": "Arcos celeste, ocre y terracota sobre azul marino."
+      },
+      {
+        "n": "2b2",
+        "id": "arcos-claro",
+        "codigo": "2B-2",
+        "nombre": "Arcos claros",
+        "descripcion": "Los mismos arcos sobre muro crema."
+      },
+      {
+        "n": "2b3",
+        "id": "arcos-azules",
+        "codigo": "2B-3",
+        "nombre": "Arcos azules",
+        "descripcion": "Solo tonos de la marca, sin colores cálidos."
+      },
+      {
+        "n": "2b4",
+        "id": "arcos-verde",
+        "codigo": "2B-4",
+        "nombre": "Arcos verdes",
+        "descripcion": "Base verde profundo con salvia, ocre y terracota."
+      },
+      {
+        "n": "2b5",
+        "id": "arcos-terracota",
+        "codigo": "2B-5",
+        "nombre": "Arcos terracota",
+        "descripcion": "Base terracota con arcos crema, azul marino y azul."
+      },
+      {
+        "n": "2b6",
+        "id": "arcos-pastel",
+        "codigo": "2B-6",
+        "nombre": "Arcos pastel",
+        "descripcion": "Tonos suaves de durazno, menta y celeste sobre crema."
+      },
+      {
+        "n": "2b7",
+        "id": "arcos-dobles",
+        "codigo": "2B-7",
+        "nombre": "Arcos dobles",
+        "descripcion": "Un segundo juego de aros baja desde la esquina superior."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de ondas",
+    "descripcion": "Muro pintado con ondas; el logo va sobre la zona lisa de arriba.",
+    "fondos": [
+      {
+        "n": "2c",
+        "id": "mural-ondas",
+        "codigo": "2C",
+        "nombre": "Mural de ondas",
+        "descripcion": "Ondas celeste, azul, azul marino, terracota y ocre."
+      },
+      {
+        "n": "2c2",
+        "id": "ondas-azules",
+        "codigo": "2C-2",
+        "nombre": "Ondas azules",
+        "descripcion": "Solo tonos de la marca, de celeste a azul marino."
+      },
+      {
+        "n": "2c3",
+        "id": "ondas-verdes",
+        "codigo": "2C-3",
+        "nombre": "Ondas verdes",
+        "descripcion": "Salvia y verde profundo con terracota y ocre."
+      },
+      {
+        "n": "2c4",
+        "id": "ondas-noche",
+        "codigo": "2C-4",
+        "nombre": "Ondas de noche",
+        "descripcion": "Versión oscura con luna crema y el logo completo en blanco."
+      },
+      {
+        "n": "2c5",
+        "id": "ondas-atardecer",
+        "codigo": "2C-5",
+        "nombre": "Ondas de atardecer",
+        "descripcion": "De durazno y ocre a terracota, con azul al pie."
+      },
+      {
+        "n": "2c6",
+        "id": "ondas-pastel",
+        "codigo": "2C-6",
+        "nombre": "Ondas pastel",
+        "descripcion": "Celeste, menta y durazno muy suaves."
+      },
+      {
+        "n": "2c7",
+        "id": "ondas-bosque",
+        "codigo": "2C-7",
+        "nombre": "Ondas de bosque",
+        "descripcion": "Verdes oscuros con sol ocre y el logo completo en blanco."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de bloques",
+    "descripcion": "Cuadrícula geométrica de cuartos y círculos; el logo va en el panel liso.",
+    "fondos": [
+      {
+        "n": "7",
+        "id": "bloques",
+        "codigo": "7",
+        "nombre": "Bloques",
+        "descripcion": "Azules de la marca con terracota y ocre."
+      },
+      {
+        "n": "7b",
+        "id": "bloques-azules",
+        "codigo": "7B",
+        "nombre": "Bloques azules",
+        "descripcion": "Solo tonos de la marca."
+      },
+      {
+        "n": "7c",
+        "id": "bloques-verdes",
+        "codigo": "7C",
+        "nombre": "Bloques verdes",
+        "descripcion": "Verdes con terracota y ocre."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de columnas",
+    "descripcion": "Barras de punta redonda y alturas distintas sobre muro crema.",
+    "fondos": [
+      {
+        "n": "8",
+        "id": "columnas",
+        "codigo": "8",
+        "nombre": "Columnas",
+        "descripcion": "Azul marino, terracota, azul y ocre."
+      },
+      {
+        "n": "8b",
+        "id": "columnas-azules",
+        "codigo": "8B",
+        "nombre": "Columnas azules",
+        "descripcion": "Solo tonos de la marca."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de terrazo",
+    "descripcion": "Fragmentos de color esparcidos, con la zona del logo despejada.",
+    "fondos": [
+      {
+        "n": "9",
+        "id": "terrazo",
+        "codigo": "9",
+        "nombre": "Terrazo",
+        "descripcion": "Fragmentos de colores sobre muro crema."
+      },
+      {
+        "n": "9b",
+        "id": "terrazo-noche",
+        "codigo": "9B",
+        "nombre": "Terrazo de noche",
+        "descripcion": "Fragmentos claros sobre azul marino, logo en blanco."
+      }
+    ]
+  },
+  {
+    "familia": "Mural de recortes",
+    "descripcion": "Manchas orgánicas y frondas, como papel recortado.",
+    "fondos": [
+      {
+        "n": "10",
+        "id": "recortes",
+        "codigo": "10",
+        "nombre": "Recortes",
+        "descripcion": "Formas terracota, azules y ocre sobre crema."
+      },
+      {
+        "n": "10b",
+        "id": "recortes-noche",
+        "codigo": "10B",
+        "nombre": "Recortes de noche",
+        "descripcion": "Las mismas formas sobre azul marino, logo en blanco."
+      }
+    ]
+  },
+  {
+    "familia": "Otros",
+    "descripcion": "Mampara, muro simple y fondos solo de marca.",
+    "fondos": [
+      {
+        "n": "3",
+        "id": "vidrio",
+        "codigo": "3",
+        "nombre": "Mampara de vidrio",
+        "descripcion": "Logo sobre vidrio con una planta abierta desenfocada detrás."
+      },
+      {
+        "n": "4",
+        "id": "muro",
+        "codigo": "4",
+        "nombre": "Muro simple",
+        "descripcion": "Solo el letrero, luz rasante y una planta. La que menos distrae."
+      },
+      {
+        "n": "5",
+        "id": "clara",
+        "codigo": "5",
+        "nombre": "Marca clara",
+        "descripcion": "Degradado claro con el isotipo como marca de agua. Sin oficina."
+      },
+      {
+        "n": "6",
+        "id": "oscura",
+        "codigo": "6",
+        "nombre": "Marca oscura",
+        "descripcion": "Versión azul marino con texto blanco. Sin oficina."
+      }
+    ]
+  }
+]
